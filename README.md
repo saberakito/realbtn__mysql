@@ -13,6 +13,5 @@ var db  = mysql.createPool({
   database : 'button'
 });
 
-
 then
 run node server: node server.js
